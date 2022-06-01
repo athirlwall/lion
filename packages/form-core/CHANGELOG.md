@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.18.1
+
+### Patch Changes
+
+- 63466d61: fix type export ValidationType
+
 ## 0.18.0
 
 ### Minor Changes
